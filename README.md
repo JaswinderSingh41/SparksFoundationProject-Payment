@@ -1,1 +1,1 @@
-# SparksFoundationProject-Payment
+# SparksFoundationProject-Payment Gateway
